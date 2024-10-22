@@ -1,5 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.amolg.flutterbarcodescanner">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--package="com.amolg.flutterbarcodescanner" <CHG000014> Remove-->
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-feature android:name="android.hardware.camera" />
